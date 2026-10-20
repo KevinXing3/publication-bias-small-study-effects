@@ -1,0 +1,73 @@
+bupropion SR,1,0.271542698,0.132507607,0.269742012,0.131625205,113,117,1,bupropion SR,l_bupropion SR,l_bupropion SR
+bupropion SR,2,0.110333197,0.114644296,,,222,116,1,bupropion SR,l_bupropion SR,l_bupropion SR
+bupropion SR,3,0.165299401,0.117849901,,,144,145,1,bupropion SR,l_bupropion SR,l_bupropion SR
+citalopram,4,0.33588919,0.159288004,0.316459596,0.150020897,78,82,2,citalopram,k_citalopram,k_citalopram
+citalopram,5,0.379001886,0.112322703,0.247463405,0.098582797,230,124,2,citalopram,k_citalopram,k_citalopram
+citalopram,6,0.174265698,0.174396098,0.426939607,0.219023302,97,50,2,citalopram,k_citalopram,k_citalopram
+citalopram,7,0.217345893,0.179472804,0.395871997,0.203017205,61,64,2,citalopram,k_citalopram,k_citalopram
+citalopram,8,0.0066264,0.147217602,,,97,88,2,citalopram,k_citalopram,k_citalopram
+duloxetine,9,0.397794187,0.131092995,0.394201487,0.131072402,177,89,3,duloxetine,f_duloxetine,f_duloxetine
+duloxetine,10,0.487085789,0.128440693,0.55745852,0.128952503,188,93,3,duloxetine,f_duloxetine,f_duloxetine
+duloxetine,11,0.42430979,0.129217803,0.43261379,0.131757393,123,122,3,duloxetine,f_duloxetine,f_duloxetine
+duloxetine,12,0.243773699,0.122958802,0.277313709,0.1230928,128,139,3,duloxetine,f_duloxetine,f_duloxetine
+duloxetine,13,0.273602396,0.189045504,0.496878386,0.191083997,56,57,3,duloxetine,f_duloxetine,f_duloxetine
+duloxetine,14,0.219565094,0.123633802,0.31996721,0.124114998,196,99,3,duloxetine,f_duloxetine,f_duloxetine
+duloxetine,15,0.066383198,0.1620159,,,81,72,3,duloxetine,f_duloxetine,f_duloxetine
+duloxetine,16,0.204499006,0.131015107,,,171,89,3,duloxetine,f_duloxetine,f_duloxetine
+escitalopram,17,0.278771102,0.1035074,0.319922894,0.103665903,188,189,4,escitalopram,e_escitalopram,e_escitalopram
+escitalopram,18,0.314054489,0.114480399,0.353773504,0.114668898,155,154,4,escitalopram,e_escitalopram,e_escitalopram
+escitalopram,19,0.476238191,0.113443799,0.403420508,0.113048799,241,119,4,escitalopram,e_escitalopram,e_escitalopram
+escitalopram,20,0.145393506,0.126914605,,,124,125,4,escitalopram,e_escitalopram,e_escitalopram
+fluoxetine,21,0.770224273,0.306370109,0.755054414,0.300188094,22,24,5,fluoxetine,h_fluoxetine,h_fluoxetine
+fluoxetine,22,0.272121608,0.108480804,0.268133014,0.106886297,181,163,5,fluoxetine,h_fluoxetine,h_fluoxetine
+fluoxetine,23,0.3655864,0.156189501,0.364257813,0.156185001,309,56,5,fluoxetine,h_fluoxetine,h_fluoxetine
+fluoxetine,24,0.118062399,0.1453017,0.0151255,0.145608902,297,48,5,fluoxetine,h_fluoxetine,h_fluoxetine
+fluoxetine,25,-0.208232507,0.312672704,0.515126526,0.317079097,18,24,5,fluoxetine,h_fluoxetine,h_fluoxetine
+mirtazapine,26,0.657072723,0.229780003,,,41,39,6,mirtazapine,d_mirtazapine,d_mirtazapine
+mirtazapine,27,0.734613717,0.220436096,0.762830973,0.229011893,44,44,6,mirtazapine,d_mirtazapine,d_mirtazapine
+mirtazapine,28,0.607260883,0.205691606,0.620396316,0.210188597,49,50,6,mirtazapine,d_mirtazapine,d_mirtazapine
+mirtazapine,29,0.474224091,0.204908803,0.470375001,0.204862595,49,49,6,mirtazapine,d_mirtazapine,d_mirtazapine
+mirtazapine,30,0.526890278,0.205619201,0.54115361,0.211245805,50,48,6,mirtazapine,d_mirtazapine,d_mirtazapine
+mirtazapine,31,0.234372899,0.179559797,0.6748119,0.280093998,64,61,6,mirtazapine,d_mirtazapine,d_mirtazapine
+mirtazapine,32,0.197622195,0.211344093,0.366579711,0.247778207,45,45,6,mirtazapine,d_mirtazapine,d_mirtazapine
+mirtazapine,33,0.254148006,0.208351701,,,45,48,6,mirtazapine,d_mirtazapine,d_mirtazapine
+mirtazapine,34,0.144893497,0.211101204,,,45,45,6,mirtazapine,d_mirtazapine,d_mirtazapine
+mirtazapine,35,-0.274747491,0.217736095,,,88,28,6,mirtazapine,d_mirtazapine,d_mirtazapine
+nefazodone,36,0.463712811,0.214907601,0.463712811,0.214907601,44,45,7,nefazodone,i_nefazodone,i_nefazodone
+nefazodone,37,0.378363401,0.1631805,0.378363401,0.1631805,78,75,7,nefazodone,i_nefazodone,i_nefazodone
+nefazodone,38,0.389964908,0.151826903,0.389964908,0.151826903,86,91,7,nefazodone,i_nefazodone,i_nefazodone
+nefazodone,39,0.148445293,0.159345999,0.62201488,0.227814198,80,78,7,nefazodone,i_nefazodone,i_nefazodone
+nefazodone,40,0.111496098,0.213867098,,,41,47,7,nefazodone,i_nefazodone,i_nefazodone
+nefazodone,41,0.070917398,0.161745399,,,76,77,7,nefazodone,i_nefazodone,i_nefazodone
+paroxetine,42,0.573421419,0.200218901,0.579537094,0.202374399,51,53,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,43,0.590235472,0.244440496,0.687175095,0.269126803,36,34,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,44,0.839515924,0.257231206,0.839515924,0.257231206,34,32,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,45,0.642715812,0.235497698,0.727837801,0.237165406,39,37,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,46,0.481209695,0.235928193,0.518785477,0.245131195,37,37,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,47,0.605841517,0.226060897,0.605841517,0.226060897,40,42,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,48,0.778462827,0.238249198,0.738163114,0.2405774,39,37,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,49,0.25665611,0.224548995,0.468393803,0.240705207,40,40,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,50,0.0055391,0.222375199,,,39,42,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,51,0.248446703,0.247160494,0.248446703,0.247160494,33,33,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,52,0.365872711,0.291184396,,,24,24,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,53,0.377209097,0.404165298,,,13,12,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,54,0.163615003,0.151480004,,,303,51,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,55,0.282694787,0.299769998,,,22,23,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,56,0.50109297,0.317550302,0.50109297,0.317550302,20,21,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine,57,0.368844986,0.393892109,,,19,10,8,paroxetine,a_paroxetine,a_paroxetine
+paroxetine CR,58,0.374646306,0.139254898,0.371999711,0.138266504,103,107,9,paroxetine CR,g_paroxetine CR,g_paroxetine CR
+paroxetine CR,59 & 60,0.286000013,0.112755097,0.346418291,0.097973697,202,203,9,paroxetine CR,g_paroxetine CR,g_paroxetine CR
+sertraline,61,0.328302711,0.119692303,0.446854591,0.120373398,142,141,10,sertraline,j_sertraline,j_sertraline
+sertraline,62,0.27209571,0.124766298,0.384246886,0.134488404,261,86,10,sertraline,j_sertraline,j_sertraline
+sertraline,63,0.121172398,0.1645668,,,75,73,10,sertraline,j_sertraline,j_sertraline
+sertraline,64,0.197080001,0.240784898,,,70,23,10,sertraline,j_sertraline,j_sertraline
+sertraline,65,0.247333795,0.205344707,,,116,30,10,sertraline,j_sertraline,j_sertraline
+venlafaxine,66,0.475699395,0.124703802,0.475699395,0.124703802,231,92,11,venlafaxine,b_venlafaxine,b_venlafaxine
+venlafaxine,67,0.578758121,0.211792797,0.843128324,0.216613904,46,47,11,venlafaxine,b_venlafaxine,b_venlafaxine
+venlafaxine,68,0.608526826,0.172534093,0.608526826,0.172534093,64,78,11,venlafaxine,b_venlafaxine,b_venlafaxine
+venlafaxine,69,0.453577399,0.171648905,0.453577399,0.171648905,65,75,11,venlafaxine,b_venlafaxine,b_venlafaxine
+venlafaxine,70,0.112663299,0.164907396,,,69,79,11,venlafaxine,b_venlafaxine,b_venlafaxine
+venlafaxine,71,0.226664796,0.141987503,0.313784301,0.160612404,149,75,11,venlafaxine,b_venlafaxine,b_venlafaxine
+venlafaxine XR,72,0.502741218,0.153231904,0.482147008,0.146920294,85,91,12,venlafaxine XR,c_venlafaxine XR,c_venlafaxine XR
+venlafaxine XR,73,0.531562209,0.147433102,0.531562209,0.147433102,91,100,12,venlafaxine XR,c_venlafaxine XR,c_venlafaxine XR
+venlafaxine XR,74,0.1871638,0.137074098,,,157,81,12,venlafaxine XR,c_venlafaxine XR,c_venlafaxine XR
